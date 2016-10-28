@@ -1,0 +1,46 @@
+1、大文本里查找出TOP3的字符串？
+2、JVM的结构：永久代、虚拟机栈、本地方法栈、堆heap、程序计数器
+3、tcp/ip的三次握手、四次握手
+4、两个整型数组 返回一个数组
+5、输入int 返回整数逆序后的字符串 123--321，用递归，不能用全局变量
+   输入必须是一个参数，必须返回字符串
+6、大型网站的架构演进之路
+7、数据分拆、应用分层
+   服务化、异步解耦
+8、中间件服务
+9、JVM
+    GC
+	线程池
+	synchronized
+	reentrantLock
+	ReentrantReadWriteLock
+	volatile
+	Atomics
+	wait
+	countDownLatch
+	CyclicBarrier
+	Semaphore
+	Exchange
+	Future futureTask
+	
+10、动态代理
+    反射：5种
+11、网站的演进过程：
+                  应用的拆分
+				  服务的拆分
+				  数据的分离
+				  应用的解耦
+12、数据库优化 大数据 高并发
+13、controller的并发
+    SperingMVC 是基于方法的拦截
+	Struts2是基于类的拦截
+14、IOC\DI
+    REST full
+15、Java的修炼之道：
+    IO2 新IO
+	socket、channal
+	java8 lambda表达式、函数式编程、stream
+	optional类、completableFuture、异步、API
+	流：
+	
+	

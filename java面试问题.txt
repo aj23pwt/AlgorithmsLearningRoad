@@ -1,0 +1,19 @@
+1、java是否有内存泄露，不是内存溢出
+2、synchronized关键字锁住的到底是什么
+3、线程的状态流转
+4、GC的机制是如何的
+5、锁机制是什么样的，有哪几种锁
+6、volatile关键字
+   CAS
+   ReentrantLock
+7、spring的代理:JDk代理
+                cglib代理
+8、dubbo原理
+9、currentHashMap的实现数据结构
+10、什么时候重写equals方法和hashCode方法，
+11、java为什么设计了hashCode方法，会重复吗
+11、webService和http的区别是什么
+12、JMM模型
+13、aop是什么
+14、一个查询条件 a b c 和a b 和a c的频率差不多，该如何建立索引
+15、如果一个访问做了限制，比如只允许并发访问次数为3 如何设计这个多线程
